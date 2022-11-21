@@ -1,10 +1,10 @@
 # moov-fakeapi
 
 # instalar o seguinte pacote globalmente
-    => npm install -g json-server
+    npm install -g json-server
 
 # para subir o servidor
-    => json-server --watch db.json --port 8080
+    json-server --watch db.json --port 8080
 
 # endpoint
   http://localhost:8080/solicitacao
